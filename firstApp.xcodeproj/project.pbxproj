@@ -12,7 +12,6 @@
 		548EB874285A33980091AD18 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548EB873285A33980091AD18 /* ViewController.swift */; };
 		548EB877285A33980091AD18 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 548EB875285A33980091AD18 /* Main.storyboard */; };
 		548EB879285A33990091AD18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 548EB878285A33990091AD18 /* Assets.xcassets */; };
-		548EB87C285A33990091AD18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 548EB87A285A33990091AD18 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +21,6 @@
 		548EB873285A33980091AD18 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		548EB876285A33980091AD18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		548EB878285A33990091AD18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		548EB87B285A33990091AD18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		548EB87D285A33990091AD18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +59,6 @@
 				548EB873285A33980091AD18 /* ViewController.swift */,
 				548EB875285A33980091AD18 /* Main.storyboard */,
 				548EB878285A33990091AD18 /* Assets.xcassets */,
-				548EB87A285A33990091AD18 /* LaunchScreen.storyboard */,
 				548EB87D285A33990091AD18 /* Info.plist */,
 			);
 			path = firstApp;
@@ -125,7 +122,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				548EB87C285A33990091AD18 /* LaunchScreen.storyboard in Resources */,
 				548EB879285A33990091AD18 /* Assets.xcassets in Resources */,
 				548EB877285A33980091AD18 /* Main.storyboard in Resources */,
 			);
@@ -153,14 +149,6 @@
 				548EB876285A33980091AD18 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		548EB87A285A33990091AD18 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				548EB87B285A33990091AD18 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

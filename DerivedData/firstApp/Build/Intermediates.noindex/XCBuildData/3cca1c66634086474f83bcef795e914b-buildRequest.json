@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "ffb9333adc27692fa836f4e02b6c86dffa59f791dbba9118adf5b53b365a065f"
+    }
+  ],
+  "containerPath" : "/Users/guilhermebernava/Documents/Pessoal/firstApp/firstApp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/guilhermebernava/Documents/Pessoal/firstApp/DerivedData/firstApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/guilhermebernava/Documents/Pessoal/firstApp/DerivedData/firstApp/Build/Products",
+      "derivedDataPath" : "/Users/guilhermebernava/Documents/Pessoal/firstApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/guilhermebernava/Documents/Pessoal/firstApp/DerivedData/firstApp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/guilhermebernava/Documents/Pessoal/firstApp/DerivedData/firstApp/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/guilhermebernava/Documents/Pessoal/firstApp/DerivedData/firstApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "DC2B83CC-8377-4AE0-8459-5DE46A7AFB31",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
