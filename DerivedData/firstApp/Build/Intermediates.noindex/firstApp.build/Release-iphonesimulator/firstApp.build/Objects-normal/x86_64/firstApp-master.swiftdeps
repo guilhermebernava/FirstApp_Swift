@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "a4a403bdde4144706e008de51b2a7e16294521111299e750d5f9535b87782b48"
+build_start_time: [1655324373, 556942939]
+build_end_time: [1655324375, 675405979]
+inputs:
+  "/Users/guilhermebernava/Documents/Pessoal/firstApp/firstApp/AppDelegate.swift": [1655307288, 569813489]
+  "/Users/guilhermebernava/Documents/Pessoal/firstApp/firstApp/Controllers/ViewController.swift": [1655324372, 545036554]
+  "/Users/guilhermebernava/Documents/Pessoal/firstApp/firstApp/Models/Person.swift": [1655324367, 597192764]
+  "/Users/guilhermebernava/Documents/Pessoal/firstApp/firstApp/SceneDelegate.swift": [1655307288, 571328639]
